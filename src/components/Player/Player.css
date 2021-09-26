@@ -1,0 +1,34 @@
+.player{
+    width: 400px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 30px;
+    border-radius: 10px;
+    text-align: justify;
+}
+.player:hover{
+    box-shadow:0 4px 8px 0 rgba(250, 122, 2, 0.322);
+}
+
+.player img{
+    height: 300px;
+    border-radius: 10px;
+}
+
+button{
+    padding: 8px 20px;
+    margin-top:10px;
+    border: none;
+    font-size: 18px;
+}
+
+h3{
+    margin: 0;
+}
+
+a{
+    font-size: 35px;
+}
+
+.yt{
+    color: red;
+}

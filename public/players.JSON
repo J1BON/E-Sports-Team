@@ -1,0 +1,90 @@
+[
+    {
+      "nickname": "Shroud",
+      "name": "Michael Grzesiek",
+      "age": 27,
+      "born": "Canada",
+      "img": "https://affairpost.com/wp-content/uploads/2019/04/shroud-is-a-twitch-steamer-whose-net-worth-is-1-million-1.jpg",
+      "score": 10
+    },
+    {
+      "nickname": "Ninja",
+      "name": "Richard Tyler Blevins",
+      "age": 30,
+      "born": "America",
+      "img": "https://i.insider.com/5cf171bd11e20532621e9cde?width=1136&format=jpeg",
+      "score": 8
+    },
+    {
+      "nickname": "Dr DisRespect",
+      "name": "Herschel Beahm",
+      "age": 39,
+      "born": "America",
+      "img": "http://cdn.mos.cms.futurecdn.net/CC3742GRuc9wXCE2rgYZfe.jpg",
+      "score": 8
+    },
+    {
+      "nickname": "TimTheTatman",
+      "name": "Timothy John Betar",
+      "age": 31,
+      "born": "America",
+      "img": "https://pbs.twimg.com/profile_images/1433098557872132108/NEvQmN7S_400x400.jpg",
+      "score": 5
+    },
+    {
+      "nickname": "Lurn",
+      "name": "Anna Doe",
+      "age": 25,
+      "born": "America",
+      "img": "https://i.ytimg.com/vi/Kj8y4_43B7M/hqdefault.jpg",
+      "score": 9
+    },
+    {
+      "nickname": "Bnans",
+      "name": "Julia Anna",
+      "age": 25,
+      "born": "Russia",
+      "img": "https://pbs.twimg.com/media/EZfznBHU4AANs9D.jpg",
+      "score": 5
+    },
+    {
+      "nickname": "AnneMunition",
+      "name": "Anne Munition",
+      "age": 31,
+      "born": "America",
+      "img": "https://trackercdn.com/legacycdn/articles/170CD5fstyiXkAAEjWD.jpg",
+      "score": 7
+    },
+    {
+      "nickname": "Summit1g",
+      "name": "Jaryd Lazar",
+      "age": 31,
+      "born": "America",
+      "img": "https://cdn1.dotesports.com/wp-content/uploads/2018/12/26150907/summit1g.png",
+      "score": 9
+    },
+    {
+      "nickname": "xQc",
+      "name": "Félix Lengyel",
+      "age": 25,
+      "born": "Canada",
+      "img": "https://pbs.twimg.com/profile_images/1188911868863221772/fpcyKuIW_400x400.jpg",
+      "score": 5
+    },
+    {
+      "nickname": "Valkyrae",
+      "name": "Rachell Hofstetter",
+      "age": 29,
+      "born": "America",
+      "img": "https://cdn1.dotesports.com/wp-content/uploads/2020/01/15105049/valk1.jpg",
+      "score": 7
+    },
+    {
+      "nickname": "ShahZaM",
+      "name": "Jon Doe",
+      "age": 27,
+      "born": "America",
+      "img": "https://cdn1.dotesports.com/wp-content/uploads/2020/09/09150448/Sentinels_-_Shaz.png",
+      "score": 9
+    }
+  ]
