@@ -7,9 +7,9 @@ const Team = (props) => {
     let name = []
     for (const player of team) {
         total = total + player.score;
-        name = (' ' + name + ' ,' + player.nickname);
-
+        name = (name + ' ' + player.nickname+ ',');
     }
+    
     return (
         <div >
             <h1 className='mb-4'>Team Statistics</h1>

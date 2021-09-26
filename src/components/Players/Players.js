@@ -19,6 +19,7 @@ const Players = () => {
     }
 
     return (
+        // main div
         <div className='main'>
             <div className="players-area row g-4">
                 {

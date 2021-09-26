@@ -4,9 +4,10 @@
     padding: 30px;
     border-radius: 10px;
     text-align: justify;
+    background: rgba(19, 19, 19, 0.061);
 }
 .player:hover{
-    box-shadow:0 4px 8px 0 rgba(250, 122, 2, 0.322);
+    box-shadow:0 4px 8px 0 rgba(240, 42, 7, 0.322);
 }
 
 .player img{
